@@ -4,5 +4,6 @@
   "documentation": "Not yet",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["jhqv-"]
+  "codeowners": ["jhqv"],
+  "version": "0.1"
 }
